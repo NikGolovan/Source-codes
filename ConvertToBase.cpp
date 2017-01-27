@@ -35,6 +35,6 @@ void convertToBase(int number, int base)
 		cout << array[c];
 	}
 	
-  /* Skipping the line to print clearly the total result */
+ 	 /* Skipping the line to print clearly the total result */
 	cout << "\n" << endl; 
 }
