@@ -4,7 +4,7 @@ using namespace std;
 void convertToBase(int number, int base)
 {
 	const int MAX = 100;
-  int BASE = 0;
+  	int BASE = 0;
 	int array[MAX];
 	int rest[MAX];
 	int i = 0, j;
